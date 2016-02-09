@@ -1,6 +1,5 @@
 // Arda Mavi
 
-
  for(int i = 0; i<=4;i++){
 // i bir tamsayı ve 0 değerine eşit. Döngü, i 4'e eşit ya da 4'den küçük olana kadar devam edecek. i sayısı her tekrarda 1 arttırılacak.
 
