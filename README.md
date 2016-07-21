@@ -1,2 +1,2 @@
 # Sizden-Gelenler
-APP iOS X'e sorduğunuz soruları açıklıyorum.
+ardamavi.com 'da sorduğunuz soruları GitHub'da cevaplıyorum.
